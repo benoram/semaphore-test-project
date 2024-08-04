@@ -1,1 +1,1 @@
-echo $SHELL
+echo $SHELL > ~/test.txt
